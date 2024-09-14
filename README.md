@@ -9,7 +9,7 @@ This app generates strong passwords based on user input, using two different app
  - Generates a random, secure password with a mix of letters, numbers, and special characters.
  - Two different approaches are used in this app for generating strong passwords.
 # Author
-Developed by: ### Asaad Hamdani
+Developed by: **Asaad Hamdani**
 
 # Contributions
 Improvements and suggestions are welcome! Feel free to submit a pull request or raise an issue if you have ideas to make this app better.
