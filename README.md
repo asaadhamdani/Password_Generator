@@ -2,7 +2,7 @@
 ## A simple Password Generator application written in Python.
 
 # Overview
-This app generates strong passwords based on user input, using two different approaches. The user can specify how many letters, numbers, and special characters they want in their password, and the app will generate a randomized, secure password accordingly.
+This app generates strong passwords based on user input, using three different approaches. The user can specify how many letters, numbers, and special characters they want in their password, and the app will generate a randomized, secure password accordingly.
 
 # Features
  - Allows users to specify the number of letters, numbers, and special characters in the password.
